@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PasswordChecker",
+      "request": "launch",
+      "mainClass": "com.linkedin.PasswordChecker",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "Password",
+      "request": "launch",
+      "mainClass": "com.linkedin.Password",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
       "name": "Launch App",
       "request": "launch",
       "mainClass": "com.linkedin.javacodechallenges.App",
